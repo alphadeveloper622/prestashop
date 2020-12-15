@@ -1,0 +1,40 @@
+We are looking to create a new website in Spanish from 0 with Prestashop 1.7 for our promotional products company,
+
+Among the most important requirements are the following points:
+
+* Import 3 catalogs in CSV, linked to the stock in real time
+
+* Redesign the product page to make it pleasant and simple to use
+* Develop a printing cost calculator (5 different techniques)
+* Show the minimum price (prices from) without printing. Example (https://bananaprint.es/c/cam camisetas-publicitarias)
+* All products have a scaling of discounts by quantity
+
+* Install a google merchancenter module and show the minimum price for each product
+* Install modules for the following functions (Categorize products, Seo in products)
+
+* On the product page, you can download the budget in PDF. Example (www.giftcampaign.es)
+
+* One-step shopping cart (important to detail the printing costs added above)
+
+* Include a button to download the technical sheet of the product in PDF,
+Example https://www.falk-ross.eu/es/Products/T-shirts/T-shirt-E150.html
+
+* include a button to view the image in 360,
+Example: https://makito.es/epages/Makito.sf/sec0b207083c8/?ObjectPath=/Shops/Makito/Products/6569/SubProducts/6569%230100004400000000
+
+* include video in the products that are available:
+Example: https://www.falk-ross.eu/es/Brands/Gamegear-/Cam Camiseta-Cooltex-Gamegear-mujer.html?shp=1&lang=3&listtype=search&searchparam=00211&redirected=1
+
+* Include the brand logo above the cover image on the catalog page
+Example: https: //printman.com/comprar-shirts-manga-corta/
+
+* Link invoices with the holded billing program
+* Delivery period of the finished store (very important and decisive)
+
+We have more information about the catalogs in CSV (Google Drive) and about the functionality of the calculator (explanatory document PDF)
+
+We only want the development to be in prestashop 1.7.6, we are not open to using other systems such as Magento or WooCommerce
+
+For this project the WAREHOUSE demo 9 template from themeforest = https://iqit-commerce.com/ps17/demo9/en/ will be used
+
+As a reference site you can consult the following link: https://www.discountmugs.com/product/g5000-customized-gildan-heavy-cotton-tees/

@@ -1,0 +1,31 @@
+Buscamos realizar una nueva web en Español desde 0 con Prestashop 1.7 para nuestra empresa de productos promocionales,
+
+Entre los requerimientos mas importantes se encuentran los siguientes puntos:
+
+*Importar 3 catálogos en CSV, vinculado con el stock en tiempo real
+*Rediseñar la pagina del producto para que sea agradable y simple de usar
+*Desarrollar una calculadora de costes de impresión ( 5 técnicas diferentes)
+*Mostrar el precio minimo (precios desde) sin imprimir. Ejemplo (https://bananaprint.es/c/camisetas-publicitarias)
+*Todos los productos tienen un escalado de descuentos por cantidad
+*Instalar un modulo de google merchancenter y que se muestre el precio mínimo en cada producto
+*Instalar modulos para las siguientes funciones ( Categorizar productos, Seo en los productos)
+*En la pagina del producto, poder descargar el presupuesto en PDF. Ejemplo ( www.giftcampaign.es )
+*Carrito de compra en un solo paso ( importante que detalle los costes de impresión sumados anteriormente)
+*Incluir un boton para descargar la ficha tecnica del producto en PDF,
+Ejemplo https://www.falk-ross.eu/es/Productos/Camisetas/Camiseta-E150.html
+*incluir un boton para ver la imagen en 360,
+Ejemplo: https://makito.es/epages/Makito.sf/sec0b207083c8/?ObjectPath=/Shops/Makito/Products/6569/SubProducts/6569%230100004400000000
+*incluir video en los productos que se dispongan:
+Ejemplo: https://www.falk-ross.eu/es/Marcas/Gamegear-/Camiseta-Cooltex-Gamegear-mujer.html?shp=1&lang=3&listtype=search&searchparam=00211&redirected=1
+*Incluir el logo de la marca arriba de la imagen de portada en la pagina de catalogo
+Ejemplo:https://printman.com/comprar-camisetas-manga-corta/
+*Vincular las facturas con el programa de facturación holded
+*Plazo de entrega de la tienda terminada ( muy importante y determinante)
+
+Disponemos de mas información sobre los catálogos en CSV (Google Drive) y sobre la funcionalidad de la calculadora (documento explicativo PDF)
+
+Solamente buscamos que el desarrollo sea en prestashop 1.7.6 , No estamos abiertos a utilizar otros sistemas como Magento o WooCommerce
+
+Para este proyecto se va a utilizar la plantilla WAREHOUSE demo 9 de themeforest = https://iqit-commerce.com/ps17/demo9/en/
+
+Como sitio de referencia pueden consultar el siguiente link : https://www.discountmugs.com/product/g5000-customized-gildan-heavy-cotton-tees/
